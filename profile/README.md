@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="cpccu.png" target="blank"><img src="" width="100" alt="Competitive Programming Camp City University (CPCCU)" /></a>
+  <a href="./cpccu.png/" target="blank"><img src="" width="100" alt="Competitive Programming Camp City University (CPCCU)" /></a>
   <h1 align="center">
      Competitive Programming Camp City University (CPCCU)
   </h1>
