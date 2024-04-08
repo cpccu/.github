@@ -11,8 +11,8 @@
   <p>Discover more about us on our <a href="https://cpccu.github.io/cpccu/">information page</a></p>
   <br>
   <h2>Repositories</h2>
-  <p><a href="https://github.com/cpccu/cpccu">iOS</a>: Our Native iOS App</p>
-  <p><a href="https://github.com/cpccu/cpccu">Android</a>: Our Native Android App</p>
+<!--   <p><a href="https://github.com/cpccu/cpccu">iOS</a>: Our Native iOS App</p> -->
+<!--   <p><a href="https://github.com/cpccu/cpccu">Android</a>: Our Native Android App</p> -->
   <p><a href="https://github.com/cpccu/cpccu">Site</a>: Our Event Website</p>
   <p><a href="https://github.com/cpccu/cpccu">Info Site</a>: Our Info Site</p>
   
