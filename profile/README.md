@@ -7,14 +7,14 @@
   <br>
   <p>Established in October 20, 2022, we’ve been a catalyst for thousands to delve into Computer Science, fostering a sense of community and the drive to break new ground.</p>
   <p>Competitive Programming Camp City University stands as the identity of Competitive Programmers community, dedicated to nurturing growth and cooperative efforts among coders at all levels. Our goal is to create a dynamic environment for active learning, expert guidance, and tackling stimulating challenges that elevate participants’ abilities. Our passion lies in honoring the competitive field and learning from sharing and inventive and pioneering spirit of students from across the country.</p>
-  <p>Excited to join Competitive Programming Camp City University? <a href="https://cpccu.github.io/cpccu/">Click here</a>!</p>
-  <p>Discover more about us on our <a href="https://cpccu.github.io/cpccu/">information page</a></p>
+  <p>Excited to join Competitive Programming Camp City University? <a href="https://cpccu.club/">Click here</a>!</p>
+  <p>Discover more about us on our <a href="https://cpccu.club/">information page</a></p>
   <br>
   <h2>Repositories</h2>
 <!--   <p><a href="https://github.com/cpccu/cpccu">iOS</a>: Our Native iOS App</p> -->
 <!--   <p><a href="https://github.com/cpccu/cpccu">Android</a>: Our Native Android App</p> -->
-  <p><a href="https://github.com/cpccu/cpccu">Site</a>: Our Event Website</p>
-  <p><a href="https://github.com/cpccu/cpccu">Info Site</a>: Our Info Site</p>
+  <p><a href="https://github.com/cpccu/cpccu](https://cpccu.club/">Site</a>: Our Event Website</p>
+  <p><a href="https://github.com/cpccu/cpccu](https://cpccu.club/">Info Site</a>: Our Info Site</p>
   
 
 **Here are some ideas to get you started:**
