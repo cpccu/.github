@@ -5,7 +5,7 @@
   </h1>
   <h3>The Official GitHub for Competitive Programming Camp City University, City University Bangladesh at Khagan, Savar, Bangladesh!</h3>  
   <br>
-  <p>Established in October 20, 2022, we’ve been a catalyst for thousands to delve into Computer Science, fostering a sense of community and the drive to break new ground.</p>
+  <p>Established on 20th October 2022, in the hands of Md Shoriful Islam Ashiq (CSE 60) along with Md Anisur Rahman Anik(CSE 61), Khandakar Amir Hamza(CSE 59) and Roudra Mondal(CSE 60). We’ve been a catalyst for thousands to delve into Computer Science, fostering a sense of community and the drive to break new ground.</p>
   <p>Competitive Programming Camp City University stands as the identity of Competitive Programmers community, dedicated to nurturing growth and cooperative efforts among coders at all levels. Our goal is to create a dynamic environment for active learning, expert guidance, and tackling stimulating challenges that elevate participants’ abilities. Our passion lies in honoring the competitive field and learning from sharing and inventive and pioneering spirit of students from across the country.</p>
   <p>Excited to join Competitive Programming Camp City University? <a href="https://cpccu.club/">Click here</a>!</p>
   <p>Discover more about us on our <a href="https://cpccu.club/">information page</a></p>
